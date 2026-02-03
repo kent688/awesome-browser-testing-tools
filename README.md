@@ -46,3 +46,11 @@ These tools are useful for quick checks without installing any software.
 ## Notes
 
 All tools listed here run in the browser and are intended for **quick diagnostics**, not deep benchmarking.
+
+---
+
+## Scope
+
+This list focuses on tools that run directly in the browser.  
+Hardware-specific and device-focused tools are intentionally kept minimal.
+
